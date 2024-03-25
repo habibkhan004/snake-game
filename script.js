@@ -15,7 +15,7 @@ let food = {
     x: 10,
     y: 10
 }
-let speed = 5;
+let speed = 9;
 let score = 0;
 
 // music.play()
